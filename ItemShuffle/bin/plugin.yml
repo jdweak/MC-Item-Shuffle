@@ -1,0 +1,11 @@
+name: ItemShuffle
+author: jdweak
+version: 2.0
+main: me.jdweak.shuffle.Main
+commands:
+ startItemShuffle:
+ endItemShuffle:
+ getMaterials:
+ reroll:
+ giveUp:
+ getCurrentItem:
