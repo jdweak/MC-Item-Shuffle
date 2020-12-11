@@ -6,6 +6,7 @@ register it. Once all players get their item or the round time passes (default 8
 Items like bedrock and end items are not included in the game.
 
 Commands:
+
   startItemShuffle: starts the minigame, default roudn length is 8 minutes. You can set a custom game length by putting the seconds after the command
   
   endItemShuffle: ends the minigame
